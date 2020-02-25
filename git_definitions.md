@@ -17,3 +17,4 @@
 - Modified - means you have changed a file but have not commitied tkhose changes.
 - Staged - means you have marked a changed file to go into the next commit (snapeshot).
 - Committed - means the data in stored in the local database.
+
