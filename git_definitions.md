@@ -22,3 +22,7 @@
 - git checkout <branchname> - switch to new branch.
 - git checkout < branchname> _ create new branch and switch to it.
 - gitbranch <branchname> - delete existing branch with given name.
+
+# Git Definitions 
+- git merge (BranchNameToMerge): merges the branch named into the current branch you are working on.
+
