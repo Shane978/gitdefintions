@@ -18,3 +18,7 @@
 - Staged - means you have marked a changed file to go into the next commit (snapeshot).
 - Committed - means the data in stored in the local database.
 
+- git - <branchname> - create a new branch with the given name.
+- git checkout <branchname> - switch to new branch.
+- git checkout < branchname> _ create new branch and switch to it.
+- gitbranch <branchname> - delete existing branch with given name.
