@@ -23,6 +23,12 @@
 - git checkout < branchname> _ create new branch and switch to it.
 - gitbranch <branchname> - delete existing branch with given name.
 
+
 # Git Definitions 
 - git merge (BranchNameToMerge): merges the branch named into the current branch you are working on.
+
+# GitFlow
+- Master branch - only stable tested code.
+- Develop branch - intergration branch for new features if it is going to brek, we want it to break on develop.
+- Topic branches - branch from develop for feature development or bug fixes. Topic branchs are merged back into develop and never interact with the master branch.
 
